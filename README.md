@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @phil0x2e or Phil
+- 👋 Hi, I’m phil0x2e or Phil
 - 👀 I’m mostly interested in the languages Rust 🦀 and Python 🐍 and in the OS GNU/Linux 🐧
+  - I also have lots of experience in Java from my job as a Software Engineer and used C/C++ in the code I wrote for my Bachelor thesis
 
 Check out my [procStop project](https://github.com/phil0x2e/procStop), which is currently my largest public project.
 It is a physical computing project of mine and aims to provide the software and instructions to create a hardware checkbox tool for your daily tasks using a Raspberry Pi.
