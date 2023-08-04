@@ -1,6 +1,6 @@
 - 👋 Hi, I’m phil0x2e or Phil
-- 👀 I’m mostly interested in the languages Rust 🦀 and Python 🐍 and in the OS GNU/Linux 🐧
-  - I also have lots of experience in Java ☕ from my job as a Software Engineer and used C/C++ in the code I wrote for my Bachelor thesis
+- 👀 I’m mostly interested in the languages Go 🐹, Rust 🦀 and sometimes Python 🐍 and in the OS GNU/Linux 🐧
+  - I also have lots of experience in Java ☕ from my job as a Software Engineer but I don't use it in private Projects
 - I also like to tinker in many other languages, from functional to OOP
 
 Check out my [procStop project](https://github.com/phil0x2e/procStop), which is currently my largest public project.
